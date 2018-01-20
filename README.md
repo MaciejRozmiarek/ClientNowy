@@ -17,6 +17,6 @@ Do prawidłowego działa potrzebny jest Serwer https://github.com/MaciejRozmiare
 - Po uruchomieniu aplikacji Client - należy ustawić adres IP oraz Port na którym Serwer oczekuje na połączenia.
 -Należy również uzupełnić pole Query w którym podajemy nasze zapytanie Select.
 - Wciskamy Run.
-- Jeżeli zaytanie jest prawidłowe i tabela istnieje Serwer zwraca wynik Selecta.
+- Jeżeli zaytanie jest prawidłowe i tabela istnieje Serwer zwraca wynik Selecta. Dane są serializowane i client je deserializuje.
 - Jeżeli zapytanie jest błędne Server zwróci nam błąd i zostanie wyświetlony w DataGridView.
 
