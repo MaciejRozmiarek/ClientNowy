@@ -20,3 +20,5 @@ Do prawidłowego działa potrzebny jest Serwer https://github.com/MaciejRozmiare
 - Jeżeli zaytanie jest prawidłowe i tabela istnieje Serwer zwraca wynik Selecta. Dane są serializowane i client je deserializuje.
 - Jeżeli zapytanie jest błędne Server zwróci nam błąd i zostanie wyświetlony w DataGridView.
 
+---
+Wykorzystane rzeczy Wątki, Serializacja, Socket, .Net, Delegaty
