@@ -1,11 +1,17 @@
+---
 Client komunikator (Win Forms) który wysyła do serwera zapytanie SQL np. Select do aplikacji Server która wykona zapytanie na bazie danych Mysql i wyśle do niego wynik.
+
+---
 
 Jak odpalić?
 
 Projekt należy pobrać i skompilować np. Visual Studio
 
+---
+
 Jak przetestować?
 
+---
 Do prawidłowego działa potrzebny jest Serwer https://github.com/MaciejRozmiarek/SerwerTcpOkienkowy
 
 - Po uruchomieniu aplikacji Client - należy ustawić adres IP oraz Port na którym Serwer oczekuje na połączenia.
